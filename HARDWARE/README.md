@@ -59,4 +59,3 @@ Synology DS923+ con 4 discos Seagate IronWolf 16TB en RAID 5.
 - **Tolerancia a fallo de 1 disco**
 - Acceso desde todos los departamentos vía SMB
 
-Estructura de carpetas del NAS:
